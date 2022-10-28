@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border-radius: 20px;
+}
+.nav {
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.nav a.active {
+    background-color: #61f2fa;
+    color: white;
+}
+footer {
+    height: 40px;background-color: rgb(0, 0, 0); 
+    padding-top: 12px; 
+    color: white; 
+    width: auto; 
+    margin: 0;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
