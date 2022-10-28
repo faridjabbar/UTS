@@ -8,10 +8,12 @@ img{
 .nav {
     overflow: hidden;
     background-color: rgb(0, 0, 0);
+    height: 40px;
+    padding-top: 20px;
 }
 
 .nav a {
-    float: left;
+    float: none;
     color: #f2f2f2;
     padding: 14px 16px;
     text-decoration: none;
@@ -25,10 +27,6 @@ img{
     color: black;
 }
 
-.nav a.active {
-    background-color: #61f2fa;
-    color: white;
-}
 footer {
     height: 40px;background-color: rgb(0, 0, 0); 
     padding-top: 12px; 
