@@ -1,13 +1,10 @@
 body {
-    background-image: url('windows-10-gradient-background-minimal-aesthetic-5k-5120x2880-2218.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
     border-radius: 20px;
+    width: 350px;
 }
 .nav {
     overflow: hidden;
@@ -32,7 +29,6 @@ img{
 }
 
 footer {
-    position: absolute;
     left: 0;
     bottom: 0;
     height: 100px;
