@@ -127,23 +127,19 @@ button:hover{
 .wrapper {
     background: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    height: 600px;
+    height: 320px;
     width: 1600px;
     margin: auto;
-    text-align: justify;
 }
 
 .wrapper p {
-    background: rgb(132, 243, 255);
+    background: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     float: left;
-    margin: 40px;
+    margin: 20px;
     padding: 20px;
     width: 350px;
-    border-top-left-radius:20px;
-    border-top-right-radius:20px;
-    border-bottom-right-radius:20px;
-    border-bottom-left-radius:20px;
+    text-align: center;
 }
 
 .img {
